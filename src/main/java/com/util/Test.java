@@ -14,7 +14,7 @@ public class Test {
          * 一键通关
          * .......
          * */
-
+        //
         JFrame game = new JFrame();
         game.setSize(605, 682);
         game.setVisible(true);//也可以用.show()，但是这个已经过时
